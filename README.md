@@ -20,7 +20,7 @@
 
 ## Ảnh minh họa
 
-![GitHub](<img width="430" height="434" alt="image" src="https://github.com/user-attachments/assets/7ad31f41-0e7d-4516-8c76-5e3b23e1f60d" />
+![GitHub](https://drive.google.com/file/d/1TPYOFrwEVkgR4aLLKVxdUjOJiQq9LkNg/view?usp=drive_link
 )
 
 ## Bảng kỹ năng
