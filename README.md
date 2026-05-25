@@ -1,6 +1,6 @@
 # github-introduction-nguyen-duc-phat
 ## Thông tin Cá nhân 
-- Họ Tên : Sóc Và Lọ
+- Họ Tên : Nguyễn Đức Phát
 - Lớp : UDPM1-K16
 ## Mục tiêu học github
 - Hiểu biết cách quản lý source code bằng Git
