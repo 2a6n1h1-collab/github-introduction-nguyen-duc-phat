@@ -3,6 +3,7 @@
 
 ## Thông tin cá nhân
 - Họ và tên: Nguyễn Đức Phát
+- Lớp : UDPM1-K16
 - Trường: Cao đẳng Công nghệ Cao Hà Nội
 - Ngành học: Công nghệ thông tin
 
