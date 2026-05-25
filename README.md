@@ -21,8 +21,7 @@
 
 ## Ảnh minh họa
 
-![Ảnh minh họa](https://drive.google.com/file/d/1TPYOFrwEVkgR4aLLKVxdUjOJiQq9LkNg/view?usp=drive_link
-)
+![Ảnh minh họa](https://avatars.githubusercontent.com/u/583231)
 
 ## Bảng kỹ năng
 
