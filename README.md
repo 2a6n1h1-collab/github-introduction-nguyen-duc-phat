@@ -20,7 +20,7 @@
 
 ## Ảnh minh họa
 
-![GitHub](https://drive.google.com/file/d/1TPYOFrwEVkgR4aLLKVxdUjOJiQq9LkNg/view?usp=drive_link
+![Ảnh minh họa](https://drive.google.com/file/d/1TPYOFrwEVkgR4aLLKVxdUjOJiQq9LkNg/view?usp=drive_link
 )
 
 ## Bảng kỹ năng
